@@ -10,7 +10,8 @@ The Pediatric Chest X-ray (PED-Xray) dataset consists of 5850 high-quality image
 Google Drive:[link](https://drive.google.com/file/d/1luCzRfpaE9du1eS7513-pY5pqcAeAcKv/view?usp=sharing)
 <img width="2138" height="1054" alt="c8b48a8f-4093-4280-8585-590b3893cb6b" src="https://github.com/user-attachments/assets/122c97dc-8ab8-4d13-bcd5-cc2117e7c255" />
 <img width="1991" height="1030" alt="image" src="https://github.com/user-attachments/assets/4b6848ae-3444-420e-b20c-a2c980cae35d" />
-<img width="1918" height="1050" alt="image" src="https://github.com/user-attachments/assets/e2b80a83-fa5e-4d44-b243-0c28fcc19d5e" />
+<img width="1539" height="870" alt="image" src="https://github.com/user-attachments/assets/e36c9567-4aa8-4cbf-8201-fafc494dd2b3" />
+
 
 
 ## Acknowledgment
