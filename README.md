@@ -10,5 +10,6 @@ The Pediatric Chest X-ray (PED-Xray) dataset consists of 5850 high-quality image
 Google Drive:[link](https://drive.google.com/file/d/1luCzRfpaE9du1eS7513-pY5pqcAeAcKv/view?usp=sharing)
 <img width="2138" height="1054" alt="c8b48a8f-4093-4280-8585-590b3893cb6b" src="https://github.com/user-attachments/assets/122c97dc-8ab8-4d13-bcd5-cc2117e7c255" />
 ## Acknowledgment
+This research was funded by the Guangdong Basic and Applied Basic Research Foundation (No. 2021B1515130003), the Key Research and Development Plan of Hubei Province (No. 2022BCE034), the Natural Science Foundation of Hubei Province (No. 2025AFD118) and the Scientific Research Program of Hubei Provincial Department of Education (No. B2023150).
 Our project references the codes in the following repos. Thanks for their works and sharing.
 [R2Gen](https://github.com/zhjohnchan/R2Gen)
